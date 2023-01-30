@@ -10,6 +10,7 @@ Iconsax-android icons come in 6 distinct styles—1000 icons per style:
 - TwoTone 
 
 ## Download
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.being-eyram/iconsax-android?color=G&style=for-the-badge)](https://search.maven.org/artifact/io.github.being-eyram/iconsax-android)
 
 ### Gradle
 
