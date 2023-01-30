@@ -1,5 +1,5 @@
 # Iconsax-android
-An unofficial vuesax icons library for android. Full list of icons can be found [here](https://iconsax-react.pages.dev/).   
+An unofficial vuesax icons[(iconsax)](https://iconsax.io) library for android. Full list of icons can be found [here](https://iconsax-react.pages.dev/).   
 Iconsax-android icons come in 6 distinct styles—1000 icons per style:  
 
 - Linear
